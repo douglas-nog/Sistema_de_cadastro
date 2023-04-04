@@ -9,3 +9,8 @@ var num2 = 5;
 var soma = num + num2
 
 console.log(soma)
+
+var nome = douglas;
+
+
+console.log(nome)
