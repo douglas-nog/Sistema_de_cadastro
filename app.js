@@ -1,6 +1,6 @@
 console.log("Inicio da aplicação")
 
-console.log("Incluind o primeiro calculo")
+console.log("Incluindo o primeiro calculo")
 
 var num = 1;
 
